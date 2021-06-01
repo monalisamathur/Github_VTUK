@@ -1,0 +1,36 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    background-image: url(../images/bg-login.jpg);
+}
+
+
+#form-content {
+    background-color: white;
+    width: 500px;
+    height: 250px;
+    box-shadow: 5px 10px #2125299c;
+}
+
+.center {
+    margin: auto;
+}
+.img-thumbnail {
+    height: 50px;
+    width: 50px;
+    border:0;
+}
+
+
+#footerimg {
+    BACKGROUND: DARKBLUE;
+}
+
+input {
+    text-align: center;
+}
+
+tbody, td, tfoot, th, thead, tr {
+    border-style: none;
+}
+
